@@ -1,0 +1,15 @@
+#Modified by: Ze Hong Wu (Jason)
+#Email: zehong.wu17@myhunter.cuny.edu
+#Date: November 16, 2020
+#Unix script.
+
+mkdir programs
+mkdir files
+cd programs
+mkdir c++
+mkdir python
+cd ..
+cd files
+mkdir csv
+mkdir pdf
+mkdir images

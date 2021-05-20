@@ -1,0 +1,577 @@
+indicator_data_id,indicator_id,name,Measure,geo_type_name,geo_entity_id,geo_entity_name,year_description,data_valuemessage
+151522,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,79.8
+151522,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,79.8
+151474,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,146.7
+151474,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,146.7
+151523,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,54
+151523,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,54
+151475,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,101
+151475,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,101
+151524,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,43.2
+151524,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,43.2
+151476,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,135.7
+151476,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,135.7
+151525,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,27
+151525,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,27
+151477,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,84.1
+151477,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,84.1
+151526,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,37.9
+151526,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,37.9
+151478,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,67.9
+151478,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,67.9
+151521,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,47.4
+151521,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,47.4
+151473,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,108.6
+151473,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,108.6
+151479,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,26.5
+151479,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,26.5
+151431,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,66.2
+151431,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,66.2
+151480,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,42.2
+151480,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,42.2
+151432,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,79.3
+151432,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,79.3
+151481,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,73.6
+151481,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,73.6
+151433,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,125
+151433,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,125
+151482,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,58.1
+151482,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,58.1
+151434,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,116
+151434,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,116
+151483,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,127.4
+151483,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,127.4
+151435,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,183.9
+151435,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,183.9
+151484,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,113.1
+151484,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,113.1
+151436,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,202
+151436,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,202
+151485,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,119.1
+151485,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,119.1
+151437,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,206.3
+151437,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,206.3
+151486,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,26.9
+151486,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,26.9
+151438,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,58.6
+151438,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,58.6
+151487,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,43.5
+151487,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,43.5
+151439,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,95.3
+151439,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,95.3
+151488,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,105.4
+151488,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,105.4
+151440,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,191.4
+151440,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,191.4
+151489,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,95
+151489,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,95
+151441,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,164
+151441,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,164
+151490,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,39.1
+151490,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,39.1
+151442,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,59.5
+151442,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,59.5
+151491,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,15.4
+151491,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,15.4
+151443,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,22.7
+151443,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,22.7
+151492,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,65.9
+151492,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,65.9
+151444,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,129.2
+151444,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,129.2
+151493,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,49.8
+151493,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,49.8
+151445,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,97.7
+151445,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,97.7
+151494,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,13.7
+151494,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,13.7
+151446,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,24.9
+151446,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,24.9
+151495,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,24
+151495,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,24
+151447,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,42.3
+151447,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,42.3
+151496,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,113.7
+151496,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,113.7
+151448,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,185.8
+151448,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,185.8
+151497,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,41.7
+151497,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,41.7
+151449,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,130.2
+151449,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,130.2
+151498,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,130.4
+151498,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,130.4
+151450,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,269.9
+151450,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,269.9
+151499,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,135.2
+151499,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,135.2
+151451,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,276
+151451,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,276
+151500,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,24.1
+151500,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,24.1
+151452,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,69.8
+151452,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,69.8
+151501,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.3
+151501,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.3
+151453,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.4
+151453,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.4
+151502,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,24.6
+151502,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,24.6
+151454,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,91.6
+151454,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,91.6
+151503,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,19.6
+151503,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,19.6
+151455,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,70
+151455,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,70
+151504,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,8.9
+151504,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,8.9
+151456,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.2
+151456,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.2
+151505,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,42.5
+151505,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,42.5
+151457,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,144
+151457,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,144
+151506,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,27
+151506,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,27
+151458,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,56.8
+151458,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,56.8
+151507,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,27.1
+151507,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,27.1
+151459,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,75
+151459,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,75
+151508,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,16.1
+151508,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,16.1
+151460,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,72.4
+151460,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,72.4
+151509,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,10.5
+151509,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,10.5
+151461,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,40
+151461,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,40
+151510,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,7.8
+151510,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,7.8
+151462,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,27.5
+151462,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,27.5
+151511,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,16.6
+151511,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,16.6
+151463,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,56.3
+151463,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,56.3
+151512,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,20.7
+151512,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,20.7
+151464,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,60.9
+151464,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,60.9
+151513,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,35
+151513,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,35
+151465,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,89
+151465,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,89
+151514,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,54.1
+151514,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,54.1
+151466,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,144.7
+151466,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,144.7
+151515,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,35.5
+151515,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,35.5
+151467,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,90.2
+151467,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,90.2
+151516,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,59.7
+151516,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,59.7
+151468,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,137.4
+151468,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,137.4
+151517,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,84.7
+151517,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,84.7
+151469,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,118.8
+151469,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,118.8
+151518,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,58.1
+151518,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,58.1
+151470,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,101.7
+151470,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,101.7
+151519,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,22.3
+151519,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,22.3
+151471,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,47.3
+151471,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,47.3
+151520,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,15.9
+151520,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,15.9
+151472,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,29.8
+151472,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,29.8
+151618,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,13.7
+151618,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,13.7
+151570,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,37.8
+151570,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,37.8
+151619,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,7.6
+151619,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,7.6
+151571,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,20.9
+151571,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,20.9
+151620,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,4.9
+151620,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,4.9
+151572,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,19.9
+151572,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,19.9
+151621,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,4.2
+151621,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,4.2
+151573,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,17
+151573,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,17
+151622,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,6.8
+151622,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,6.8
+151574,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,12.5
+151574,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,12.5
+151617,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,7
+151617,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,7
+151569,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,22.7
+151569,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,22.7
+151575,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,7.5
+151575,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,7.5
+151527,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,22.3
+151527,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,22.3
+151576,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,9.8
+151576,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,9.8
+151528,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,32.2
+151528,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,32.2
+151577,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,14.4
+151577,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,14.4
+151529,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,43.6
+151529,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,43.6
+151578,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,11.7
+151578,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,11.7
+151530,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,34.2
+151530,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,34.2
+151579,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,18.9
+151579,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,18.9
+151531,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,39.6
+151531,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,39.6
+151580,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,16.4
+151580,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,16.4
+151532,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,38.2
+151532,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,38.2
+151581,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,16
+151581,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,16
+151533,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,43.6
+151533,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,43.6
+151582,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,3.5
+151582,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,3.5
+151534,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,10.3
+151534,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,10.3
+151583,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,6.6
+151583,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,6.6
+151535,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,20.5
+151535,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,20.5
+151584,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,13.5
+151584,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,13.5
+151536,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,40.2
+151536,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,40.2
+151585,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,11.5
+151585,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,11.5
+151537,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,29.8
+151537,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,29.8
+151586,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,6.5
+151586,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,6.5
+151538,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,10.8
+151538,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,10.8
+151587,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,3.8
+151587,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,3.8
+151539,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,5.1
+151539,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,5.1
+151588,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,7.3
+151588,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,7.3
+151540,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,26.9
+151540,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,26.9
+151589,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,7.1
+151589,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,7.1
+151541,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,21.5
+151541,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,21.5
+151590,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,2.9
+151590,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,2.9
+151542,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,5
+151542,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,5
+151591,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,6
+151591,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,6
+151543,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,8.1
+151543,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,8.1
+151592,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,13.6
+151592,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,13.6
+151544,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,41.2
+151544,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,41.2
+151593,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,5.8
+151593,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,5.8
+151545,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,18.3
+151545,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,18.3
+151594,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,10.3
+151594,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,10.3
+151546,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,38.1
+151546,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,38.1
+151595,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,17.4
+151595,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,17.4
+151547,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,42.3
+151547,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,42.3
+151596,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,2.8
+151596,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,2.8
+151548,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,11.5
+151548,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,11.5
+151597,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,1.4
+151597,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,1.4
+151549,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,9.4
+151549,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,9.4
+151598,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,2.8
+151598,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,2.8
+151550,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,14.1
+151550,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,14.1
+151599,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,2.1
+151599,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,2.1
+151551,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,10.6
+151551,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,10.6
+151600,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,1
+151600,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,1
+151552,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,6.2
+151552,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,6.2
+151601,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,5.6
+151601,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,5.6
+151553,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,14.2
+151553,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,14.2
+151602,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,2.6
+151602,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,2.6
+151554,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,9.5
+151554,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,9.5
+151603,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,4.1
+151603,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,4.1
+151555,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,13.2
+151555,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,13.2
+151604,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,3
+151604,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,3
+151556,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,9.2
+151556,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,9.2
+151605,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,2.6
+151605,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,2.6
+151557,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,11.2
+151557,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,11.2
+151606,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,2.2
+151606,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,2.2
+151558,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,8.5
+151558,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,8.5
+151607,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,3.4
+151607,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,3.4
+151559,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,16
+151559,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,16
+151608,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,3.7
+151608,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,3.7
+151560,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,13.6
+151560,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,13.6
+151609,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,4.1
+151609,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,4.1
+151561,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,18.6
+151561,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,18.6
+151610,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,7.5
+151610,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,7.5
+151562,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,28.3
+151562,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,28.3
+151611,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,5
+151611,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,5
+151563,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,26.2
+151563,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,26.2
+151612,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,9
+151612,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,9
+151564,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,23.6
+151564,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,23.6
+151613,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,12.1
+151613,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,12.1
+151565,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,21.2
+151565,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,21.2
+151614,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,9.5
+151614,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,9.5
+151566,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,16
+151566,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,16
+151615,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,4.7
+151615,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,4.7
+151567,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,10
+151567,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,10
+151616,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,4.2
+151616,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,4.2
+151568,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,7.2
+151568,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,7.2
+131406,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,67
+131406,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,67
+131454,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,128.2
+131454,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,128.2
+131407,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,48.5
+131407,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,48.5
+131455,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,93.1
+131455,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,93.1
+131408,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,45.7
+131408,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,45.7
+131456,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,144.3
+131456,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,144.3
+131409,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,23.1
+131409,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,23.1
+131457,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,74.8
+131457,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,74.8
+131410,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,28.1
+131410,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,28.1
+131458,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,50.5
+131458,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,50.5
+131405,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,45.1
+131405,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,45.1
+131453,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,106.8
+131453,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,106.8
+131396,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,17.2
+131363,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,25.4
+131363,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,25.4
+131411,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,60.7
+131411,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,60.7
+131364,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,37.6
+131364,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,37.6
+131412,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,73.4
+131412,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,73.4
+131365,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,68.7
+131365,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,68.7
+131413,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,122.8
+131413,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,122.8
+131366,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,57.5
+131366,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,57.5
+131414,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,121.9
+131414,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,121.9
+131367,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,131.3
+131367,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,131.3
+131415,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,200.2
+131415,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,200.2
+131368,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,130.1
+131368,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,130.1
+131416,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,249.3
+131416,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,249.3
+131369,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,138.1
+131369,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,138.1
+131417,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,251.3
+131417,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,251.3
+131370,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,28.2
+131370,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,28.2
+131418,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,59.6
+131418,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,59.6
+131371,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,40.7
+131371,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,40.7
+131419,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,89.1
+131419,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,89.1
+131372,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,95.4
+131372,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,95.4
+131420,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,178.4
+131420,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,178.4
+131373,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,85
+131373,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,85
+131421,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,153.2
+131421,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,153.2
+131374,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,35
+131374,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,35
+131422,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,51.3
+131422,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,51.3
+131375,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,13.2
+131375,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,13.2
+131423,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,19.5
+131423,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,19.5
+131376,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,57.9
+131376,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,57.9
+131424,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,115.8
+131424,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,115.8
+131377,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,40.9
+131377,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,40.9
+131425,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,81.7
+131425,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,81.7
+131378,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,11.3
+131378,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,11.3
+131426,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,20.7
+131426,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,20.7
+131379,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,19.8
+131379,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,19.8
+131427,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,35.1
+131427,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,35.1
+131380,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,106.8
+131380,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,106.8
+131428,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,184.6
+131428,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,184.6
+131381,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,44.5
+131381,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,44.5
+131429,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,138.5
+131429,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,138.5
+131382,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,137
+131382,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,137
+131430,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,291.1
+131430,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,291.1
+131383,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,147.1
+131383,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,147.1
+131431,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,299.4
+131431,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,299.4
+131384,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,25.5
+131384,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,25.5
+131432,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,74.2
+131432,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,74.2
+131385,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.4
+131385,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.4
+131433,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.5
+131433,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.5
+131386,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,25.3
+131386,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,25.3
+131434,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,88.6
+131434,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,88.6
+131387,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,20.7
+131387,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,20.7
+131435,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,69.7
+131435,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,69.7
+131388,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,9.2
+131388,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,9.2
+131436,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.5
+131436,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.5
+131389,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,45.5
+131389,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,45.5
+131437,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,151.9
+131437,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,151.9
+131390,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,25.7
+131390,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,25.7
+131438,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,57.2
+131438,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,57.2
+131391,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,28.1
+131391,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,28.1
+131439,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,79.4
+131439,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,79.4
+131392,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,15.6
+131392,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,15.6
+131440,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,75.2
+131440,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,75.2
+131393,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,9.3
+131393,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,9.3
+131441,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,38
+131441,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,38
+131394,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,6.7
+131394,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,6.7
+131442,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,22.1
+131442,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,22.1
+131395,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,14.9
+131395,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,14.9
+131443,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,51.1
+131443,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,51.1
+131396,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,17.2
+131444,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,47.7
+131444,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,47.7
+131397,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,29.8
+131397,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,29.8
+131445,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,80
+131445,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,80
+131398,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,41.6
+131398,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,41.6
+131446,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,115.8
+131446,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,115.8
+131399,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,27.4
+131399,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,27.4
+131447,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,70.5
+131447,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,70.5
+131400,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,47.8
+131400,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,47.8
+131448,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,111.8
+131448,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,111.8
+131401,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,64.5
+131401,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,64.5
+131449,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,92
+131449,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,92
+131402,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,42.9
+131402,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,42.9
+131450,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,76.1
+131450,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,76.1
+131403,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,16
+131403,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,16
+131451,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,32.8
+131451,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,32.8
+131404,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,11.8
+131404,657,PM2.5-Attributable Asthma ED Visits ,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,11.8
+131452,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,21
+131452,648,PM2.5-Attributable Asthma ED Visits ,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,21

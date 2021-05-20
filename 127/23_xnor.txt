@@ -1,0 +1,6 @@
+#Name: Ze Hong Wu (Jason)
+#Email: zehong.wu17@myhunter.cuny.edu
+#Date: October 12, 2020
+#XNOR
+
+out = (in1 or not in2) and (not in1 or in2)

@@ -1,0 +1,12 @@
+#Modified by: Ze Hong Wu (Jason)
+#Email: zehong.wu17@myhunter.cuny.edu
+#Date: November 24, 2020
+#Uses machine code to iterate from 100 to 500 in steps of 100.
+
+ADDI $s0, $zero, 0
+ADDI $s1, $zero, 100
+ADDI $s2, $zero, 500
+AGAIN: ADD $s0, $s0, $s1
+BEQ $s0, $s2, DONE
+J AGAIN
+DONE: 

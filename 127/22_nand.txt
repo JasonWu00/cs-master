@@ -1,0 +1,7 @@
+#Name: Ze Hong Wu (Jason)
+#Email: zehong.wu17@myhunter.cuny.edu
+#Date: October 12, 2020
+#NAND
+
+
+out = not (in1 and in2)

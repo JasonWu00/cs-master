@@ -1,0 +1,8 @@
+#Modified by: Ze Hong Wu (Jason)
+#Email: zehong.wu17@myhunter.cuny.edu
+#Date: November 24, 2020
+#Unix script to count python files.
+
+#!/bin/bash
+
+ls -l | grep ".py" | wc -l
